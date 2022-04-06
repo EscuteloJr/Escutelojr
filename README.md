@@ -9,7 +9,9 @@
 
 <p align="center">
    <a href="https://twitter.com/21_escutelo"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/21_escutelo?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@21_escutelo"></a>
-   <a href="https://badges.pufler.dev/visits/bornmay/bornmay"> <img alt="escutelo_ github" src="https://badges.pufler.dev/visits/bornmay/bornmay"> </a>
+ <a href="https://www.linkedin.com/in/mateus-escutelo/">
+    <img src="svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
+  </a>   
  </p>
 
   <h5 align="center">
