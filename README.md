@@ -11,9 +11,17 @@
    <a href="https://twitter.com/21_escutelo"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/21_escutelo?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@21_escutelo"></a>
  <a href="https://www.linkedin.com/in/mateus-escutelo/">
     <img src="svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
-  </a>   
+  </a>
  </p>
 
   <h5 align="center">
    <i>⚡️I don't trust people who don't write SQL queries in capitals or write unindented code LOL⚡️</i>
   </h5>
+<p align="center">
+  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+</p>
