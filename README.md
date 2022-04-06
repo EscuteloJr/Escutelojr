@@ -31,3 +31,19 @@
    <img src="svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
    <img src="svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:6px 4px">
 </p>
+
+<p align="center">
+  <a href="https://github.com/EscuteloJr/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=EscuteloJr&layout=compact&langs_count=7&theme=dracula"
+    />
+  </a>
+  <a href="https://github.com/EscuteloJr/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=EscuteloJr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
+    />
+  </a>
+</p>
