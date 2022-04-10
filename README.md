@@ -32,7 +32,7 @@
    <img src="svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:6px 4px">
 </p>
 
-<p align="center">
+<p align="rigth">
   <a href="https://github.com/EscuteloJr/github-readme-stats">
     <img
       align="center"
